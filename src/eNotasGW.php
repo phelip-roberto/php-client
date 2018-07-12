@@ -1,4 +1,6 @@
 <?php
+	namespace eNotasGW;
+
 	require('helper.php');
 	
 	require('exceptions/requestException.php');
