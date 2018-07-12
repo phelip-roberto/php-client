@@ -1,0 +1,7 @@
+{
+    "name": "phelip-roberto/php-client",
+    "description": "eNotasGW 1.0 - emissão de nota fiscal de serviço",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
