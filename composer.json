@@ -3,5 +3,10 @@
     "description": "eNotasGW 1.0 - emissão de nota fiscal de serviço",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "eNotasGW\\": "src/"
+        }
+    }
 }
